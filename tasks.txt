@@ -1,0 +1,5 @@
+1|Study Linux|21:30|once|active|2026-09-27
+2|Backup Projects|18:00|weekly|active|2026-09-27
+3|Submit Assignment|22:00|once|deleted|2026-09-27
+4|test reminder|21:35|once|active|2026-09-27
+5|Cron Test|21:40|once|active|2026-09-27
